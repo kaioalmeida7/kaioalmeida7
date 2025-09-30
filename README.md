@@ -10,8 +10,7 @@
 ## 🚀 Sobre mim
 
 * 🌎 Brasileiro, amante da tecnologia e programação.
-* 🎯 Foco atual: desenvolvimento web com **HTML, CSS e JavaScript**.
-* 📚 Aprendendo no momento SQL com MySql, Python e Power Bi.
+* 🎯 Foco atual:Aprendendo no momento SQL com MySql, Python e Power Bi, **HTML, CSS e JavaScript**.
 * 📚 Sempre em busca de aprender e compartilhar conhecimento.
 * 🤝 Aberto a novas oportunidades!
 
